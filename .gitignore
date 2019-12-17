@@ -21,3 +21,4 @@ __pycache__
 
 # Editors
 .idea/
+.vscode/settings.json
